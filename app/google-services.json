@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "630548726298",
+    "firebase_url": "https://dogfood2-8bc59-default-rtdb.firebaseio.com",
+    "project_id": "dogfood2-8bc59",
+    "storage_bucket": "dogfood2-8bc59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630548726298:android:b19d09060ea6cfabf087a3",
+        "android_client_info": {
+          "package_name": "com.maximus.dogfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg9rT7W0ROt3A7R_-s2SXGvp7FKEEM4Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630548726298:android:40ab503472780158f087a3",
+        "android_client_info": {
+          "package_name": "com.perabru.dogfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg9rT7W0ROt3A7R_-s2SXGvp7FKEEM4Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
